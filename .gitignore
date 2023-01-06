@@ -1,4 +1,4 @@
 images
 Submissions
-*.h5
+model.h5
 *.tflite
