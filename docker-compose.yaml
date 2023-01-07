@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  utensils:
+    image: kitchenware:xception_v4_10_0.956
+  gateway:
+    image: kitcheware-gateway:002
+    environment:
+      - TF_SERVING_HOST=utensils:8500
+    ports:
+      - "9696:9696"
