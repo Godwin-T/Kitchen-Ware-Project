@@ -18,7 +18,7 @@ of distinguishing between different utensil categories with high accuracy.
 
 Project Structure
 
-The project structure is organized as follows:
+The project structure is organized as follows: 
     • data/: Contains training and testing datasets. 
     • models/: Stores pre-trained models and model checkpoints. 
     • docker/: Docker configuration files for containerization. 
