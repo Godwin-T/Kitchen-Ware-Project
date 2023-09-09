@@ -1,5 +1,6 @@
-images
-Submissions
-model.h5
+data/
+
+*.h5
 *.tflite
-utensils
+*.ipynb
+*csv
