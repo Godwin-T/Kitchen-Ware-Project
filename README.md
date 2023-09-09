@@ -5,9 +5,10 @@ The goal is to classify images of various kitchen utensils into predefined categ
 and managed with Kubernetes (K8s) for scalability and easy deployment.
 
 Table of Contents 
-Introduction
-Project Structure
-Prerequisites
+
+  Introduction
+  Project Structure
+  Prerequisites
 
 Introduction
 Kitchen utensils image classification is a common problem in computer vision. This project demonstrates how to create, train, 
